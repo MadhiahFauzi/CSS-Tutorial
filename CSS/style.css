@@ -1,0 +1,15 @@
+body
+ 	{
+ 		background-color: skyblue;
+ 	}
+p
+	{
+		text-align: right;
+		font-family: algerian;
+	}
+
+h1
+	{
+		color:maroon;
+		font-size: 18pt;
+	}
